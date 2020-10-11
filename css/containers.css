@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;  
+}
+
+.custom-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+} 
+
+.list-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+.element {
+  margin: 10px;
+  background: transparent;
+  padding: 5px;
+}
